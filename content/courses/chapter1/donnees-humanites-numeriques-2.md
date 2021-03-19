@@ -6,8 +6,6 @@ date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
-# Données et humanités numériques en SHS : quelques exemples de projets
-
 On présente ici quelques exemples de projets des SHS qui exploitent, analysent et donnent à voir des jeux de données. Ces projets interagissent avec les acteurs et infrastructures en lien avec les données de la recherche dans les SHS et se positionnent à la fois sur des thématiques disciplinaires et des problématiques qui relèvent des humanités numériques. 
 
 ## Biblissima : observatoire du patrimoine écrit du Moyen Âge
