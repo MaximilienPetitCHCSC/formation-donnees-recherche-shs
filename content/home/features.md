@@ -2,20 +2,20 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: Document _anything_ ✨
+title: Description de la formation
+subtitle: en visioconférence via Zoom✨
 feature:
   - icon: book-open
     icon_pack: fas
-    name: Project Documentation
+    name: Notions et contexte
     description: For users
   - icon: question
     icon_pack: fas
-    name: Knowledge Base
+    name: Outils et solutions pratiques
     description: For teams
   - icon: list-alt
     icon_pack: fas
-    name: Personal Notebook
+    name: Travaux pratiques
     description: For yourself
 ---
 
