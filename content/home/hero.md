@@ -14,7 +14,10 @@ cta:
   label: Accès à la documentation
   icon_pack: fas
   icon: download
-
+cta_alt:
+  url: http://www.adum.fr/psaclay/formations.pl?mat=296829
+  label: Accès à la fiche ADUM
+ 
 ---
 
 Formation doctorale aux données de la recherche en SHS.
