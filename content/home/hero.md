@@ -24,6 +24,4 @@ cta_note:
     </span>
 ---
 
-Published with the [Wowchemy Website Builder](https://sourcethemes.com/academic/) for Hugo.
-
-Write something interesting about your project here.
+Formation doctorale aux données de la recherche en SHS.
