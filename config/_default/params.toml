@@ -54,6 +54,7 @@ description = "Base de connaissance de la formation doctorale de l'UVSQ consacr√
 ## Site Features
 ############################
 
+i_am_a_sponsor = true
 # Enable source code highlighting? true/false
 # Documentation: https://wowchemy.com/docs/writing-markdown-latex/#highlighting-options
 highlight = false
