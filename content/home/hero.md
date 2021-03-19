@@ -10,7 +10,7 @@ design:
     gradient_end: '#2b94c3'
     text_color_light: true
 cta:
-  url: docs/
+  url: courses/
   label: Accès à la documentation
   icon_pack: fas
   icon: download
