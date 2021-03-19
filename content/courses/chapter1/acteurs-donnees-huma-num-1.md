@@ -1,5 +1,5 @@
 ---
-title: Acteurs des données : Huma-Num
+title: Acteurs des données : Huma Num
 linktitle: test
 type: book
 date: "2019-05-05T00:00:00+01:00"
