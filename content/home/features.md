@@ -11,7 +11,7 @@ feature:
     description:
   - icon: question
     icon_pack: fas
-    name: Outils et solutions pratiques
+    name: Outils et méthodologie
     description:
   - icon: list-alt
     icon_pack: fas
