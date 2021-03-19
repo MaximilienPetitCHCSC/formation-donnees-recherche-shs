@@ -20,7 +20,7 @@ cta_alt:
   
 ---
 
-**Formation doctorale aux données de la recherche en SHS**
+## Formation doctorale aux données de la recherche en SHS
 Claire Lebreton, Conservatrice, DBIST, UVSQ
 Karine Pellerin, Bibliothécaire, DBIST, UVSQ
 Maximilien Petit, Chargé des ressources documentaires, CHCSC, UVSQ
