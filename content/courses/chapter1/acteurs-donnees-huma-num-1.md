@@ -1,6 +1,6 @@
 ---
-title: Acteurs des données
-linktitle: [Acteur des données] Huma-Num
+title: Huma-Num
+linktitle: Huma-Num
 type: book
 date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
