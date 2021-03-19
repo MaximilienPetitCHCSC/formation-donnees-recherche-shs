@@ -5,5 +5,5 @@
 
 [[main]]
   name = "Données de la recherche en SHS"
-  url = "docs/"
+  url = "courses/"
   weight = 10
