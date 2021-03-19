@@ -1,11 +1,12 @@
 ---
-title: Acteurs des données
-linktitle: Acteurs des données : Huma-Num
+title: test
+linktitle: test
 type: book
 date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
+
 # Acteurs des données : Huma-Num
 
 Acteur qui travaille, entre autres, avec le CINES et qui concerne plus particulièrement les communautés des SHS. Huma Num est une TGIR (Très Grande Infrastructure de Recherche) qui a pour but d'accompagner les chercheurs dans le tournant numérique. Les domaines de compétence : 
