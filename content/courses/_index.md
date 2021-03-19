@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Formation doctorale
 type: book  # Do not modify.
 toc: false
 ---
