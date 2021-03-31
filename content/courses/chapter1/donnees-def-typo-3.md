@@ -20,9 +20,9 @@ Ces *Principes et Lignes directrices* de l’OCDE s’appliquent avant tout pour
 
 Selon la Commission Européenne pour Horizon 2020 :
 
-1. the 'underlying data' (the data needed to validate the results presented in scientific publications), including the associated metadata (i.e. metadata describing the research data deposited), as soon as possible
+> 1. the 'underlying data' (the data needed to validate the results presented in scientific publications), including the associated metadata (i.e. metadata describing the research data deposited), as soon as possible
 
-2. any other data (for instance curated data not directly attributable to a publication, or raw data), including the associated metadata, as specified and within the deadlines laid down in the DMP – that is, according to the individual judgement by each project/grantee.
+> 2. any other data (for instance curated data not directly attributable to a publication, or raw data), including the associated metadata, as specified and within the deadlines laid down in the DMP – that is, according to the individual judgement by each project/grantee.
 
 [Guidelines to the Rules on Open Access to Scientific Publications and Open Access to research Data in Horizon 2020](https://ec.europa.eu/research/participants/data/ref/h2020/grantsmanual/hi/oapilot/h2020-hi-oa-pilot-guide_en.pdf)
 
@@ -34,7 +34,7 @@ Selon le guide :
 
 > De nombreuses définitions des données de la recherche existent. Dans notre guide, les données de la recherche concernent à la fois les échantillons, les données administratives et les données scientifiques tant manuscrites (cahiers de laboratoire...) que numériques.
 
-Traçabilité des activités de recherche et gestion des connaissances, guide pratique de mise en place (CNRS : http://qualite-en-recherche.cnrs.fr/spip.php?article315) élaboré par le groupe de travail « Traçabilité des activités de recherche et gestion des connaissances » du réseau Qualité en Recherche de la Mission pour les Initiatives Transverses et Interdisciplinaires du CNRS.
+[Traçabilité des activités de recherche et gestion des connaissances, guide pratique de mise en place] (http://qualite-en-recherche.cnrs.fr/spip.php?article315) élaboré par le groupe de travail « Traçabilité des activités de recherche et gestion des connaissances » du réseau Qualité en Recherche de la Mission pour les Initiatives Transverses et Interdisciplinaires du CNRS.
 
 Ici, on évoque également les données administratives et il y a bien une prise en compte des données « manuscrites ».
 ***
