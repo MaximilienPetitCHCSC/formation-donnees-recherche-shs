@@ -103,7 +103,7 @@ Ajout récent pour accéder à certains services d’Huma-Num : l’[HumanID](ht
 - [Présentation et liste des consortiums Huma-Num](https://www.huma-num.fr/les-consortiums-hn/) : la TGIR facilite la création de consortiums qui mettent en place des guides de bonnes pratiques et des outils sur des thématiques de recherche précises.
 - [Présentation de l’Huma-Num Lab](https://www.huma-num.fr/hnlab/) : dispositif récent qui va permettre  d’accueillir des chercheurs et ingénieurs de recherche en résidence afin  de travailler sur des thématiques qui relèvent des humanités numériques.
 ***
-# PROGEDO : Développer la culture des données
+## PROGEDO : Développer la culture des données
 
 C’est également une Très Grande Infrastructure de Recherche, mais ses missions et son périmètre différent d’Huma-Num. Mission qui structure la TGIR : « développer la culture des données, impulser et structurer une politique des données d’enquêtes pour la recherche en sciences sociales ».
 
