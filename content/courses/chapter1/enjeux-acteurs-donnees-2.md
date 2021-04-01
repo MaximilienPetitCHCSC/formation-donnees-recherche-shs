@@ -102,6 +102,50 @@ Ajout récent pour accéder à certains services d’Huma-Num : l’[HumanID](ht
 - [La liste des sites web hébergés par Huma-Num](https://www.huma-num.fr/annuaire-des-sites-web/).
 - [Présentation et liste des consortiums Huma-Num](https://www.huma-num.fr/les-consortiums-hn/) : la TGIR facilite la création de consortiums qui mettent en place des guides de bonnes pratiques et des outils sur des thématiques de recherche précises.
 - [Présentation de l’Huma-Num Lab](https://www.huma-num.fr/hnlab/) : dispositif récent qui va permettre  d’accueillir des chercheurs et ingénieurs de recherche en résidence afin  de travailler sur des thématiques qui relèvent des humanités numériques.
+***
+# PROGEDO : Développer la culture des données
+
+C’est également une Très Grande Infrastructure de Recherche, mais ses missions et son périmètre différent d’Huma-Num. Mission qui structure la TGIR : « développer la culture des données, impulser et structurer une politique des données d’enquêtes pour la recherche en sciences sociales ».
+
+**Tutelles** : CNRS, EHESS.
+
+PROGEDO pour PROduction et Gestion des DOnnées. Le périmètre large des sciences sociales : droit, économise, géographie, gestion, histoire, sciences politiques et sociologie. Les données d’enquêtes (et leur gestion) intéressent plus particulièrement la TGIR. Cet aspect en particulier implique avant tout de se concentrer sur les données « sensibles », et donc, les questionnements éthiques et juridiques.
+
+Le statut de TGIR implique d’avoir une feuille de route, d’être à l’initiative de partenariats nationaux, européens, internationaux, et de mettre en place des stratégies de financement ciblées. En savoir plus : [ici](https://cache.media.enseignementsup-recherche.gouv.fr/file/Infrastructures_de_recherche/74/5/feuille_route_infrastructures_recherche_2016_555745.pdf)
+
+**Les départements de PROGEDO** : 
+
+•       Statistiques publiques et méthodes
+
+•       Opinions et enquêtes sociopolitiques
+
+•       Santé
+
+•       Population et parcours de vie
+
+•       Données historiques économiques et financières
+
+Point commun avec Huma-Num : s’appuyer sur le réseau des MSH. Dans ce cas précis, c’est via le dispositif des plates-formes universitaires de données (PUD), qui s’inscrivent dans une démarche de sensibilisation à la gestion des données d’enquêtes. Le réseau : Lille, Lyon-St-Etienne, Caen, Dijon, Nantes, Strasbourg, Aix-Marseille, Toulouse, Grenoble, Nanterre, Rennes, Poitiers, Paris.
+
+PROGEDO participe aux collaborations concernant les grandes enquêtes européennes. Exemple : [Santé, vieillissement et retraite](http://www.progedo.fr/produire/sante-vieillissement-et-retraite/survey-on-health-ageing-and-retirement-in-europe/).
+
+Diffusion des données d’enquête : Quetelet PROGEDO
+
+Facilite l’accès aux données d’enquêtes qui, par nature, sont le plus souvent anonymisées, confidentielles. Les membres des communautés scientifiques, et donc également les doctorants, peuvent s’inscrire sur les bases de PROGEDO pour « commander les données d’enquêtes ».
+
+**Les enjeux de ces bases sont patrimoniaux, pédagogiques, scientifiques.**
+
+Rechercher les données d’enquête : 
+
+•       Outil de Recherche de Données en Sciences Sociales (ORDS) : [ici](http://quetelet.progedo.fr/ords/)
+
+•       La Base de Questions : [ici](http://bdq.quetelet.progedo.fr/fr/Accueil)
+
+Ces deux bases se trouvent sur le portail d’accès aux données françaises en sciences humaines et sociales : [Quetelet PROGEDO Diffusion](http://quetelet.progedo.fr/)
+
+Standard international pour la documentation des enquêtes : Data Documentation Initiative (DDI)
+
+La contextualisation d’une enquête : l’enquête sur l’enquête [ici](https://bequali.fr/media/ckeditor/uploads/2016/11/10/fiche_bequali_ese_20161109.pdf)
 
  
 
