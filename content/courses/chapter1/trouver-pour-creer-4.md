@@ -21,7 +21,7 @@ Ici, nous retrouvons une « landing page » d’un jeu de données. Un titre
 
 [OSFHOME](https://osf.io/5fh58/) est un projet qui dépend du Center for Open Science (Centre pour la science ouverte) qui est un organisme à but non lucratif américain. OSF, pour Open Science Framework, est une application libre, gratuite, open source, qui propose effectivement un entrepôt de données couplé à une solution de travail collaboratif. Vous pouvez ouvrir un projet, collaborer, documenter vos données, les enregistrer, les partager. Initialement, l’initiative provient de la recherche en psychologie. Le site, via OSFPREPRINTS, permet également d’interroger des serveurs de *preprint*. Sur l’exemple en question : un projet collaboratif concernant la marche des femmes de 2017 à Washington, au lendemain de l’élection de Trump. On y retrouve majoritairement des témoignages oraux.
 ***
-<a href="https://twitter.com/intent/tweet?button_hashtag=EnVeilleOA&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="PetitMaximilie1" data-show-count="false">Tweet #EnVeilleOA</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?button_hashtag=EnVeilleDH&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #EnVeilleDH</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
