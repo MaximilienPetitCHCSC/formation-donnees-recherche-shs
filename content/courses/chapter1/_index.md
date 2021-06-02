@@ -12,4 +12,6 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Le topo **« Pas le temps pour les données »** rassemble des connaissances générales sur les données de la recherche pour les SHS : les définitions, les typologies, les enquêtes, le cycle de vie des données, les grands modèles. On y trouve également des informations actualisées sur quelques grands acteurs (Huma-Num, Progedo, CINES, etc.) des SHS qui fournissent des services sur la question des données. Enfin, ce topo met en exergue des entrepôts et quelques exemples de projets de recherche qui exploitent, analysent et donnent à voir des jeux de données.
+
+Le contenu a été initialement rédigé pour des doctorants.
