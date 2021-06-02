@@ -21,4 +21,4 @@ cta_alt:
 ---
 
 ## Pas le temps pour la doc
-Ce site est à destination des enseignants-chercheurs et doctorants du laboratoire CHCSC et regroupe des "topos" sur les problématiques documentaires.
+Ce site web est à destination des enseignants-chercheurs et doctorants du laboratoire CHCSC et regroupe des « topos » sur les problématiques documentaires.
