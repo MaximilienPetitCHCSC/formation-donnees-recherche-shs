@@ -5,5 +5,5 @@
 
 [[main]]
   name = "Pas le temps pour les données"
-  url = "courses/"
+  url = "courses/chapter1/"
   weight = 10
