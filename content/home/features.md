@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Les topos « Pas le temps pour »
-subtitle: Site maintenu par Maximilien Petit | maximilien.petit@uvsq.fr | 06 51 74 95 69
+subtitle: Site maintenu par Maximilien Petit | maximilien.petit@uvsq.fr | 01 39 25 56 32 | Laboratoire Centre d'Histoire Culturelle des Sociétés Contemporaines
 feature:
   - icon: book-open
     icon_pack: fas
