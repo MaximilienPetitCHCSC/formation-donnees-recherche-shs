@@ -15,12 +15,10 @@ cta:
   icon_pack: fas
   icon: download
 cta_alt:
-  url: http://www.adum.fr/psaclay/formations.pl?mat=296829
-  label: Accès à la fiche ADUM
+  url: https://www.chcsc.uvsq.fr/
+  label: Accès au site du laboratoire
   
 ---
 
-## Formation doctorale aux données de la recherche en SHS
-Claire Lebreton, Conservatrice, DBIST, UVSQ
-Karine Pellerin, Bibliothécaire, DBIST, UVSQ
-Maximilien Petit, Chargé des ressources documentaires, CHCSC, UVSQ
+## Pas le temps pour la doc
+Ce site est à destination des enseignants-chercheurs et doctorants du laboratoire CHCSC et regroupe des "topos" sur les problématiques documentaires.
