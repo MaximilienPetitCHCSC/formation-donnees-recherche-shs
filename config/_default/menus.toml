@@ -4,6 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Données de la recherche en SHS"
+  name = "Pas le temps pour les données"
   url = "courses/"
   weight = 10
