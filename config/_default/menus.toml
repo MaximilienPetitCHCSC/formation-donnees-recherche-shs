@@ -8,4 +8,9 @@
   url = "courses/chapitre1/"
   weight = 10
   
+[[main]]
+  name = "Pas le temps pour les données"
+  url = "courses/chapitre1/"
+  weight = 20
+  
  
