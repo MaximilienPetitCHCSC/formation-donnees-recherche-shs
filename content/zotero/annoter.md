@@ -22,5 +22,3 @@ Lien : [ici](http://g.recordit.co/VbWcGOsbSQ.gif)
 
 Créez une note indépendante et une note fille dans votre Zotero.
 
-<iframe width="670" height="800" src="https://www.inoreader.com/stream/user/1006136830/tag/Veilleurs/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
-
