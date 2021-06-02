@@ -9,8 +9,8 @@
   weight = 10
   
 [[main]]
-  name = "Pas le temps pour les données"
-  url = "courses/chapitre1/"
+  name = "Pas le temps pour Zotero"
+  url = "zotero/presentation/"
   weight = 20
   
  
