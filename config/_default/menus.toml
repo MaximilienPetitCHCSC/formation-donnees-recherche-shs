@@ -7,3 +7,6 @@
   name = "Pas le temps pour les données"
   url = "courses/chapitre1/"
   weight = 10
+  name = "Pas le temps pour Zotero"
+  url = "zotero/"
+  weight = 20
