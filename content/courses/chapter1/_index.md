@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Chapter 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: Notions et outils sur les données de la recherche.
 weight: 1
 icon: book
 icon_pack: fas
