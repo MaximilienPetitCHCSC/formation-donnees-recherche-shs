@@ -18,4 +18,9 @@
   url = "post/veille/"
   weight = 30
   
+ [[main]]
+  name = "Pas le temps pour HAL"
+  url = "hal/interet/"
+  weight = 40
+  
  
