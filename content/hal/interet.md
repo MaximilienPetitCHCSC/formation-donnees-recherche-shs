@@ -1,5 +1,5 @@
 ---
-title: interet-depot-hal
+title: Intérêt du dépôt dans HAL
 linktitle: Intérêt du dépôt dans HAL
 type: book
 date: "2019-05-05T00:00:00+01:00"
